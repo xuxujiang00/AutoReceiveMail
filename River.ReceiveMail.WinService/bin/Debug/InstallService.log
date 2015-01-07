@@ -1,0 +1,19 @@
+Microsoft (R) .NET Framework 安装实用工具版本 4.0.30319.33440
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+
+
+正在开始卸载。
+查看日志文件的内容以获得 D:\Code\AutoReceiveMail\River.ReceiveMail.WinService\bin\Debug\River.ReceiveMail.WinService.exe 程序集的进度。
+该文件位于 D:\Code\AutoReceiveMail\River.ReceiveMail.WinService\bin\Debug\River.ReceiveMail.WinService.InstallLog。
+正在卸载程序集“D:\Code\AutoReceiveMail\River.ReceiveMail.WinService\bin\Debug\River.ReceiveMail.WinService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\Code\AutoReceiveMail\River.ReceiveMail.WinService\bin\Debug\River.ReceiveMail.WinService.InstallLog
+   assemblypath = D:\Code\AutoReceiveMail\River.ReceiveMail.WinService\bin\Debug\River.ReceiveMail.WinService.exe
+正在移除 EventLog 源 RiceiveMailMain。
+正在从系统中移除服务 RiceiveMailMain...
+已成功地从系统中移除服务 RiceiveMailMain。
+尝试停止服务 RiceiveMailMain。
+
+卸载完成。

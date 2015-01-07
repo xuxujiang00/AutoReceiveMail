@@ -1,0 +1,14 @@
+D:\RiverCode\AutoReceiveEmail\River.ReceiveMail\River.ReceiveMail.Model\bin\Debug\River.ReceiveMail.Model.dll
+D:\RiverCode\AutoReceiveEmail\River.ReceiveMail\River.ReceiveMail.Model\bin\Debug\River.ReceiveMail.Model.pdb
+D:\RiverCode\AutoReceiveEmail\River.ReceiveMail\River.ReceiveMail.Model\obj\Debug\River.ReceiveMail.Model.dll
+D:\RiverCode\AutoReceiveEmail\River.ReceiveMail\River.ReceiveMail.Model\obj\Debug\River.ReceiveMail.Model.pdb
+D:\RiverCode\AutoReceiveMail\River.ReceiveMail.Model\bin\Debug\River.ReceiveMail.Model.dll
+D:\RiverCode\AutoReceiveMail\River.ReceiveMail.Model\bin\Debug\River.ReceiveMail.Model.pdb
+D:\RiverCode\AutoReceiveMail\River.ReceiveMail.Model\obj\Debug\River.ReceiveMail.Model.dll
+D:\RiverCode\AutoReceiveMail\River.ReceiveMail.Model\obj\Debug\River.ReceiveMail.Model.pdb
+D:\Code\AutoReceiveMail\River.ReceiveMail.Model\bin\Debug\River.ReceiveMail.Model.dll
+D:\Code\AutoReceiveMail\River.ReceiveMail.Model\bin\Debug\River.ReceiveMail.Model.pdb
+D:\Code\AutoReceiveMail\River.ReceiveMail.Model\bin\Debug\LumiSoft.Net.dll
+D:\Code\AutoReceiveMail\River.ReceiveMail.Model\obj\Debug\River.ReceiveMail.Model.dll
+D:\Code\AutoReceiveMail\River.ReceiveMail.Model\obj\Debug\River.ReceiveMail.Model.pdb
+D:\Code\AutoReceiveMail\River.ReceiveMail.Model\obj\Debug\River.ReceiveMail.Model.csprojResolveAssemblyReference.cache
