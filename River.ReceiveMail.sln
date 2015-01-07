@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "River.ReceiveMail.WinService", "River.ReceiveMail.WinService\River.ReceiveMail.WinService.csproj", "{6BE5826E-BF78-4E78-9610-623A64EB5BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{A99EAF21-2254-4E9E-B786-F37A8CBB0241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "River.ReceiveMail.Helper", "River.ReceiveMail.Helper\River.ReceiveMail.Helper.csproj", "{87C5CE84-D49F-4A09-BA33-F8A0C0D98FF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reference", "Reference", "{28CF3941-4BD9-41E8-8E80-C50024909E95}"
+	ProjectSection(SolutionItems) = preProject
+		Reference\log4net.dll = Reference\log4net.dll
+		Reference\LumiSoft.Net.dll = Reference\LumiSoft.Net.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "River.ReceiveMail.Model", "River.ReceiveMail.Model\River.ReceiveMail.Model.csproj", "{2B89086A-64FC-4ED5-969A-92FA3CE39392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE5826E-BF78-4E78-9610-623A64EB5BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE5826E-BF78-4E78-9610-623A64EB5BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE5826E-BF78-4E78-9610-623A64EB5BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE5826E-BF78-4E78-9610-623A64EB5BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99EAF21-2254-4E9E-B786-F37A8CBB0241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99EAF21-2254-4E9E-B786-F37A8CBB0241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99EAF21-2254-4E9E-B786-F37A8CBB0241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99EAF21-2254-4E9E-B786-F37A8CBB0241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C5CE84-D49F-4A09-BA33-F8A0C0D98FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C5CE84-D49F-4A09-BA33-F8A0C0D98FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C5CE84-D49F-4A09-BA33-F8A0C0D98FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C5CE84-D49F-4A09-BA33-F8A0C0D98FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B89086A-64FC-4ED5-969A-92FA3CE39392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B89086A-64FC-4ED5-969A-92FA3CE39392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B89086A-64FC-4ED5-969A-92FA3CE39392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B89086A-64FC-4ED5-969A-92FA3CE39392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
