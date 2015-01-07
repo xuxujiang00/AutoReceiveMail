@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Account>
+    <Pop3Server>pop.qq.com</Pop3Server>
+    <Pop3Port>995</Pop3Port>
+    <!--0:false 1:true 新的备注-->
+    <Pop3UserSsl>1</Pop3UserSsl>
+    <UserName>490573985@qq.com</UserName>
+    <PassWord>xuxujiang0</PassWord>
+  </Account>
+</Data>
+
