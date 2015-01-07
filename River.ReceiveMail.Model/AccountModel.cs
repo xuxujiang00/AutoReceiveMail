@@ -14,7 +14,5 @@ namespace River.ReceiveMail.Model
         public bool Pop3UserSsl { set; get; }
         public string UserName { set; get; }
         public string PassWord { set; get; }
-
-        public POP3_Client _POP3Client { set; get; }
     }
 }
